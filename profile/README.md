@@ -1,3 +1,3 @@
-## Grid - Build Worlds with Emojis
+## Grid - Build with Emojis
 
 Check it out today! [grid-app.lol](https://grid-app.lol/)
